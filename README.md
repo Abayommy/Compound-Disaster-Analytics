@@ -565,7 +565,7 @@ For questions, contributions, or emergency management collaboration:
 ## 👨‍💻 Author
 
 **Abayomi Ajayi** - *Emergency Management & Data Science*
-- LinkedIn: (https://www.linkedin.com/in/abayomi-a-5a77431b4/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/abayomi-a-5a77431b4/)
 - Email: ajayi.abayomi5@gmail.com
 - Location: Peachtree City, Georgia
 
