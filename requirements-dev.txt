@@ -1,0 +1,45 @@
+# Include production requirements
+-r requirements.txt
+
+# Testing Framework
+pytest>=6.0.0
+pytest-cov>=2.10.0
+pytest-mock>=3.6.0
+pytest-xdist>=2.4.0
+
+# Code Quality and Formatting
+black>=21.0.0
+flake8>=3.8.0
+isort>=5.9.0
+mypy>=0.910
+
+# Pre-commit Hooks
+pre-commit>=2.10.0
+
+# Documentation
+sphinx>=4.0.0
+sphinx-rtd-theme>=0.5.0
+
+# Jupyter and Interactive Development
+jupyter>=1.0.0
+ipykernel>=6.0.0
+notebook>=6.4.0
+
+# Development Tools
+python-dotenv>=0.19.0
+ipdb>=0.13.0
+
+# Performance Profiling
+memory-profiler>=0.58.0
+line-profiler>=3.3.0
+
+# API Development and Testing
+httpx>=0.24.0
+fastapi>=0.68.0
+uvicorn>=0.15.0
+
+# Emergency Management Testing Data
+faker>=8.10.0
+
+# Load Testing
+locust>=2.0.0
